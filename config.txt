@@ -5,10 +5,9 @@
 # 公众号appSecret
 "app_secret": "d6bcc87122e153eac389bb09d4383e95",
 # 模板消息id
-"template_id": "uAqjo_hwirbWBIwDeU932HdFbgJ1iQUS7U396zZO-3s",
+"template_id": "nzxkzr07VAE0s9ra1XY3-JrU2PIoy_8aiLQLwAW5jaE",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["oCXdg6Sq8v6Y7FThOJ6zS6EZc8gg"],
- 
 # 信息配置
 # 和风天气apikey
 "weather_key": "26977f9405a54e0c95ae64b7bb4fca9b",
@@ -23,6 +22,6 @@
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
 "note_ch": "新的一天，要好好学习，乐观积极，爱家人爱自己爱聂博！",
 # 金句英文
-"note_en": ""
+"note_en": "love you"
 }
 
