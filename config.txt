@@ -10,9 +10,9 @@
 "user": ["oCXdg6Sq8v6Y7FThOJ6zS6EZc8gg", "oCXdg6fQZP4Dc1gC2_nG-QLGJFOY"],
 # 信息配置
 # 和风天气apikey
-"weather_key": "1b1a330a6ea6460ebe2eee3a05b75189",
+"weather_key": "26977f9405a54e0c95ae64b7bb4fca9b",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
-"region": "郑州市",
+"region": "佛山市",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "宝贝歌", "birthday": "2023-01-13"},
 # 生日2
